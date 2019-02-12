@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549930607994.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2208433223",
+    "id" : "94E00D45",
+    "lastKnownWriteTime" : 1549930632,
+    "last_content_update" : 1549930632444,
+    "path" : "C:/20190211/exam02.R",
+    "project_path" : "exam02.R",
+    "properties" : {
+        "cursorPosition" : "25,0",
+        "scrollLine" : "11",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
